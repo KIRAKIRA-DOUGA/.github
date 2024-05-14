@@ -1,3 +1,13 @@
 # KIRAKIRA☆DOUGA
 
-欢迎来到KIRAKIRA☆官方GitHub组织~
+欢迎来到 KIRAKIRA☆ 官方 GitHub 组织~
+
+参与开发，请参见各个项目中的 `README` 文档。  
+报告问题，请前往对应项目中创建议题（Issue）或讨论（Discussions）。
+
+---
+
+WELCOME TO KIRAKIRA☆ OFFICIAL REPOSITORY.
+
+To contribute,, please see the `README` file in each repository.  
+To report an Issue, please go to the appropriate repository to create an Issue or start a Discussion.
