@@ -7,7 +7,7 @@
 
 ---
 
-WELCOME TO KIRAKIRA ☆ OFFICIAL GITHUB ORGANIZATION.
+WELCOME TO KIRAKIRA ☆ OFFICIAL GITHUB ORGANIZATION~
 
 To contribute, please see the `README.MD` file in each repository.  
 To report an Issue, please go to the appropriate repository to create an Issue or start a Discussion.
