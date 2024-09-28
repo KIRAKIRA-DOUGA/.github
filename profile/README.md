@@ -11,3 +11,5 @@ WELCOME TO KIRAKIRA ☆ OFFICIAL GITHUB ORGANIZATION~
 
 To contribute, please see the `README.MD` file in each repository.  
 To report an Issue, please go to the appropriate repository to create an Issue or start a Discussion.
+
+[![Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/uVd9ZJzEy7)](https://discord.gg/uVd9ZJzEy7)
